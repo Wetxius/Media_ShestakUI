@@ -1,0 +1,10 @@
+## Interface: 90001
+## Title: Media_ShestakUI
+## Notes: Adds Shared Media textures and fonts
+## Version: 1.0
+## Author: Wetxius
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0.lua
+Media.lua
