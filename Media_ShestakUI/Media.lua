@@ -13,6 +13,7 @@ else
 	LOCALE_MASK = 128
 end
 
+LSM:Register("font", "Archangelsk", [[Interface\AddOns\Media_ShestakUI\Media\Fonts\Archangelsk.ttf]], LOCALE_MASK)
 LSM:Register("font", "Expressway", [[Interface\AddOns\Media_ShestakUI\Media\Fonts\Expressway.ttf]], LOCALE_MASK)
 LSM:Register("font", "Gotham", [[Interface\AddOns\Media_ShestakUI\Media\Fonts\Gotham.ttf]], LOCALE_MASK)
 LSM:Register("font", "Homespun [Pixel]", [[Interface\AddOns\Media_ShestakUI\Media\Fonts\Homespun.ttf]], LOCALE_MASK)
