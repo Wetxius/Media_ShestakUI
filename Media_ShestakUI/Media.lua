@@ -30,6 +30,7 @@ LSM:Register("statusbar", "Bezo", [[Interface\AddOns\Media_ShestakUI\Media\Statu
 LSM:Register("statusbar", "Dajova", [[Interface\AddOns\Media_ShestakUI\Media\StatusBars\Dajova]])
 LSM:Register("statusbar", "Duffed", [[Interface\AddOns\Media_ShestakUI\Media\StatusBars\Duffed]])
 LSM:Register("statusbar", "ElvUI Gloss", [[Interface\AddOns\Media_ShestakUI\Media\StatusBars\ElvUI]])
+LSM:Register("statusbar", "Gradient", [[Interface\AddOns\Media_ShestakUI\Media\StatusBars\Gradient]])
 LSM:Register("statusbar", "Sinaris", [[Interface\AddOns\Media_ShestakUI\Media\StatusBars\Sinaris]])
 LSM:Register("statusbar", "Slate", [[Interface\AddOns\Media_ShestakUI\Media\StatusBars\Slate]])
 LSM:Register("statusbar", "Smooth", [[Interface\AddOns\Media_ShestakUI\Media\StatusBars\Smooth]])
